@@ -1,0 +1,41 @@
+.NoBox {
+  padding-right: 9%;
+}
+div {
+  text-align: center;
+}
+h4 {
+  margin-top: 3%;
+}
+.BLUE {
+  height: 30px;
+  width: 30px;
+  background-color: blue;
+  margin-left: 3px;
+  margin-top: 35px;
+  display: inline-block;
+}
+.RED {
+  height: 30px;
+  width: 30px;
+  background-color: red;
+  margin-left: 3px;
+  margin-top: 35px;
+  display: inline-block;
+}
+.ORANGE {
+  height: 30px;
+  width: 30px;
+  background-color: orange;
+  margin-left: 3px;
+  margin-top: 35px;
+  display: inline-block;
+}
+.GREEN {
+  height: 30px;
+  width: 30px;
+  background-color: green;
+  margin-left: 3px;
+  margin-top: 35px;
+  display: inline-block;
+}
